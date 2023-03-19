@@ -1,7 +1,7 @@
 {
 "packageRules": [{
 "matchPackageNames": ["xmldoc", "nodemon"],
-  "groupName": "immortality is the meaning of life",
-  "recreateClosed": "never"
-}]
+  "groupName": "immortality is the meaning of life"
+}],
+"recreateClosed": "never"
 }
